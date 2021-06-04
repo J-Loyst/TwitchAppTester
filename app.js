@@ -1,6 +1,5 @@
 var client_id = "ijh55o11vg5nc80rsy67puvk8m4ce6";
-var redirect =
-  "https://barrycarlyon.github.io/twitch_misc/authentication/implicit_auth/";
+var redirect = "https://awesome-jepsen-e788b5.netlify.app/";
 
 document
   .getElementById("authorize_public")
