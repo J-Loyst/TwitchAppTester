@@ -5,6 +5,7 @@ body {
 nav {
   border-radius: 20px;
   font-size: 15px;
+  text-align: center;
 }
 a {
   color: white;
