@@ -1,6 +1,9 @@
+body {
+  background: black;
+}
 a {
   text-decoration: none;
-  text-align: center;
+  text-align: right;
 }
 #title {
   font-size: large;
