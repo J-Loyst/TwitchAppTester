@@ -3,6 +3,7 @@ body {
   font-family: arvo;
 }
 nav {
+  border-radius: 20px;
   font-size: 15px;
 }
 a {
