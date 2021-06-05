@@ -16,3 +16,6 @@ a {
   font-size: xx-large;
   text-shadow: grey;
 }
+.frame-border {
+  border: 5px solid white;
+}
