@@ -24,3 +24,7 @@ a {
   border: 5px solid white;
   border-radius: 20px;
 }
+.associate-border {
+  border: 5px solid orange;
+  border-radius: 20px;
+}
