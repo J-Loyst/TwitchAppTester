@@ -7,6 +7,9 @@ nav {
   font-size: 15px;
   text-align: center;
 }
+iframe {
+  border: 3 px solid hotpink;
+}
 a {
   color: white;
   text-decoration: none;
