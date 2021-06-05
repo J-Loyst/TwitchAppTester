@@ -3,11 +3,11 @@ body {
   font-family: monospace;
 }
 a {
-  color: black;
+  color: white;
   text-decoration: none;
   text-align: right;
 }
 #title {
   font-size: xx-large;
-  text-shadow: blanchedalmond;
+  text-shadow: grey;
 }
