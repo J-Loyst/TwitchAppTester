@@ -17,11 +17,11 @@ a {
   text-shadow: grey;
 }
 .frame-border {
-  border: 5px solid white;
+  border: 5px solid orangered;
   border-radius: 20px;
 }
 .fb-border {
-  border: 5px solid white;
+  border: 5px solid orangered;
   border-radius: 20px;
 }
 .associate-border {
