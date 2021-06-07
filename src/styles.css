@@ -6,6 +6,8 @@ nav {
   border-radius: 5px;
   font-size: 15px;
   text-align: center;
+  display: flex;
+  flex-direction: center;
 }
 a {
   color: white;
